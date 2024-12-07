@@ -16,4 +16,4 @@ build/
 pythonenv3.8/
 .vscode/
 # Ignoring the virtual Environment when using GitHub Codespaces
-.venv/
+venv/
